@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-jdbc-4.2.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.2.0.RELEASE/d3f0ec4d8c924b6b4325607f30909e527a87388d/spring-jdbc-4.2.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
