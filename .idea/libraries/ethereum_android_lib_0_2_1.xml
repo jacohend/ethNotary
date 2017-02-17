@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ethereum-android-lib-0.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/de.petendi/ethereum-android-lib/0.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/de.petendi/ethereum-android-lib/0.2.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.petendi/ethereum-android-lib/0.2.1/5410c5d5d7aef3e0b2fcae4e51bf404cc8c32416/ethereum-android-lib-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
